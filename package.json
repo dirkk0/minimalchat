@@ -1,0 +1,9 @@
+{
+     "name": "chat",
+     "description": "chat",
+     "version": "0.0.1",
+     "dependencies": {
+        "node-static": "0.6.7",
+        "socket.io": "0.9.13"
+     }
+}
